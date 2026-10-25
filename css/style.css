@@ -96,6 +96,7 @@ header {
 .search {
   display: flex;
   gap: 15px;
+  margin-top: 56px;
 }
 .location {
   padding: 23px 101px 23px 20px;
@@ -512,6 +513,8 @@ button {
   line-height: auto;
   letter-spacing: 0%;
   color: #ffffff;
+  border: none;
+  margin-top: 27px;
 }
 .footerFoot {
   padding: 31px 0 31px 0;
